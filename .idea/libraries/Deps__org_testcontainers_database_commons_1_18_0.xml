@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: org.testcontainers/database-commons:1.18.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/testcontainers/database-commons/1.18.0/database-commons-1.18.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
